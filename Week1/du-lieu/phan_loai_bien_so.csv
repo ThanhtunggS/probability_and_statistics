@@ -1,0 +1,8 @@
+﻿Tên biến số,Loại biến chính (Định lượng / Phân loại),Phân loại chi tiết (Liên tục / Rời rạc / Định danh / Thứ bậc),Đơn vị đo lường (Nếu là định lượng),Kiểu dữ liệu tương ứng trong Pandas (dtype)
+1. Họ và tên,Phân loại,Định danh,Không có,object / string
+2. Quê quán,Phân loại,Định danh,Không có,Không có
+3. Ngành học,Phân loại,Định danh,Không có,Không có
+4. Số tín chỉ,Định lượng,Rời rạc,tín chỉ,int
+5. Số anh chị em,Định lượng,Rời rạc,người,int
+6. Khoảng cách (km),Định lượng,Liên tục,km,float
+7. Phương tiện,Phân loại,Định danh,Không có,Không có
